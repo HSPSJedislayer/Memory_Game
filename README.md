@@ -1,2 +1,2 @@
 # Project
-My first repository
+Este repositório foi criado para treinamento de criação de projetos.
